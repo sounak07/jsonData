@@ -1,14 +1,12 @@
-[
-  {
-    "firstName": "Sounak",
-    "lasttName": "Gupta",
-    "Address Line 1": "1254D",
-    "Address Line 2": "7th Street",
-    "City": "Palo Alto",
-    "State": "CA",
-    "Zipcode": "7851260",
-    "Country": "USA",
-    "OrderData": "25/7/19",
-    "ExpectedDelivery": "30/7/19"
-  }
-]
+{
+  "firstName": "Sounak",
+  "lasttName": "Gupta",
+  "Address Line 1": "1254D",
+  "Address Line 2": "7th Street",
+  "City": "Palo Alto",
+  "State": "CA",
+  "Zipcode": "7851260",
+  "Country": "USA",
+  "OrderData": "25/7/19",
+  "ExpectedDelivery": "30/7/19"
+}
