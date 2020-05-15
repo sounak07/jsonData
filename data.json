@@ -2,7 +2,7 @@
   {
     "type": "Billing",
     "firstName": "Sounak",
-    "lasttName": "Gupta",
+    "lastName": "Gupta",
     "Address1": "1254D",
     "Address2": "7th Street",
     "City": "Palo Alto",
@@ -13,7 +13,7 @@
   {
     "type": "Shipping",
     "firstName": "Sounak",
-    "lasttName": "Gupta",
+    "lastName": "Gupta",
     "Address1": "1254D",
     "Address2": "7th Street",
     "City": "Palo Alto",
