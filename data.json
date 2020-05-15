@@ -8,9 +8,7 @@
     "City": "Palo Alto",
     "State": "CA",
     "Zipcode": "7851260",
-    "Country": "USA",
-    "OrderData": "25/7/19",
-    "ExpectedDelivery": "30/7/19"
+    "Country": "USA"
   },
   {
     "type": "Shipping",
